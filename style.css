@@ -1,0 +1,10 @@
+body {
+    background: url("https://img.freepik.com/free-vector/abstract-premium-black-gold-geometric-background_1017-24783.jpg?size=626&ext=jpg");
+    background-size: cover;
+    color:skyblue;
+}
+
+#score, #timer {
+    font-size: large;
+    margin-left: 20px;
+}
